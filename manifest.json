@@ -553,6 +553,31 @@
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/customization/title_screen_layout.txt",
       "sha1": "377dad7ddf958e69deacb77e3e8e899b0c94bf10"
+    },
+    {
+      "path": "config/fancymenu/assets/gif.gif",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/assest/gif.gif",
+      "sha1": "43f8fe880ea960b5e1ae55f2df5fb3275f08bc06"
+    },
+    {
+      "path": "config/fancymenu/assets/retogulag.png",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/assest/retogulag.png",
+      "sha1": "4970eec506ca31b8f1469036323011c64820e850"
+    },
+    {
+      "path": "config/fancymenu/assets/terri.png",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/assest/terri.png",
+      "sha1": "c02cb86e7e9dcd6a3595cb63751abe4f25145f61"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/options.txt",
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widget/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/fancymenu/layout_editor/widget/element_layer_control.lewidget",
+      "sha1": "a87d9eee1c6d38726797d4e611b3ce976cade110"
     }
   ]
 }
