@@ -280,6 +280,11 @@
       "sha1": "aae74fdf194aab2e6656eb6a4aa531fe3e9f6867"
     },
     {
+      "path": "mods/MenuDED3-0.0.0.jar",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/mods/MenuDED3-0.0.0.jar",
+      "sha1": "c1a8f8a28293c29e1f4ea5480101cf05cb93d020"
+    },
+    {
       "path": "config/canary.properties",
       "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/config/canary.properties",
       "sha1": "da21a52310e2d5c6b393a06b58d15a38ae3bf863"
