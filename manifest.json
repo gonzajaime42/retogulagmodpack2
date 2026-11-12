@@ -65,6 +65,11 @@
       "sha1": "6c3f0a231566db48523e091183a8c97b3ff55f1e"
     },
     {
+      "path": "resourcepacks/AlmaPack.zip",
+      "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/resourcepacks/AlmaPack.zip",
+      "sha1": "7f3d9dafdc4725a6c0e148003438bf546a7ad430"
+    },
+    {
       "path": "mods/aquamirae-forge-1.20.1-6.4.0.jar",
       "url": "https://raw.githubusercontent.com/gonzajaime42/retogulagmodpack2/main/retogulag/mods/aquamirae-forge-1.20.1-6.4.0.jar",
       "sha1": "f802327ab6c738ff3c29e4b39a28c224ee7b29fa"
